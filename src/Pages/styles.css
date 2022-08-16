@@ -1,0 +1,68 @@
+body{
+ background-color: #FFD662FF;
+}
+.main{
+    background-color: #FFD662FF;
+    height: 100%;
+}
+.tag{
+    font-family: 'Quando', serif;
+    font-size: 1.8rem;
+}
+.tag1{
+    font-family: 'Quando', serif;
+    font-size: 1.6rem;
+}
+
+.text {
+    margin-left: 20px;
+    margin-top: 150px;
+}
+
+.img{
+    height: 600px;
+    width: 600px;
+}
+.imgdiv{
+    margin-left: 80px;
+}
+
+.main{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.btn {
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    top: 379px;
+    left: 251px;
+}
+
+.btn1{
+    margin-left: 10px;
+}
+
+.party{
+    font-family: 'Quando', serif;
+        font-size: 1.2rem;
+}
+
+.inner{
+    width: 80%;
+    justify-content: center;
+    margin-left: 100px;
+}
+
+.buttons{
+    display: flex;
+    justify-content: center;
+}
+
+.heading{
+    display: flex;
+    justify-content: center;
+}
+
